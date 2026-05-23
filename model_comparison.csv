@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+LightGBM,0.9747,0.7618,0.4009,0.5254,0.8978
+XGBoost,0.9785,0.8509,0.4679,0.6038,0.9249
+Isolation Forest,0.953,0.1333,0.0622,0.0848,0.6592
